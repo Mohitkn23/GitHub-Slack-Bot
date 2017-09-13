@@ -1,0 +1,42 @@
+[
+  {
+    "login": "Spaceghost",
+    "id": 251370,
+    "avatar_url": "https://avatars.githubusercontent.com/u/251370?v=3",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/Spaceghost",
+    "html_url": "https://github.com/Spaceghost",
+    "followers_url": "https://api.github.com/users/Spaceghost/followers",
+    "following_url": "https://api.github.com/users/Spaceghost/following{/other_user}",
+    "gists_url": "https://api.github.com/users/Spaceghost/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/Spaceghost/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/Spaceghost/subscriptions",
+    "organizations_url": "https://api.github.com/users/Spaceghost/orgs",
+    "repos_url": "https://api.github.com/users/Spaceghost/repos",
+    "events_url": "https://api.github.com/users/Spaceghost/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/Spaceghost/received_events",
+    "type": "User",
+    "site_admin": false,
+    "contributions": 1
+  },
+  {
+    "login": "test",
+    "id": 583231,
+    "avatar_url": "https://avatars.githubusercontent.com/u/583231?v=3",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/test",
+    "html_url": "https://github.com/test",
+    "followers_url": "https://api.github.com/users/test/followers",
+    "following_url": "https://api.github.com/users/test/following{/other_user}",
+    "gists_url": "https://api.github.com/users/test/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/test/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/test/subscriptions",
+    "organizations_url": "https://api.github.com/users/test/orgs",
+    "repos_url": "https://api.github.com/users/test/repos",
+    "events_url": "https://api.github.com/users/test/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/test/received_events",
+    "type": "User",
+    "site_admin": false,
+    "contributions": 1
+  }
+]
