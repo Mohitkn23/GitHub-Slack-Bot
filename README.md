@@ -123,7 +123,7 @@ Example usages:
   
 ### Example of a possible flow
 1. hi bot
-2. fetch <Https GitHub repo link>
-3. file <FileName> top 3
-4. file <FileName> recent 3
+2. fetch "Https GitHub repo link"
+3. file "FileName" top 3
+4. file "FileName" recent 3
 5. orgContributors README.md
