@@ -94,8 +94,8 @@ Example usages:
 2) <b> fetch &lt;github repository link&gt; </b>    
 This command is used to fetch the contents of the repository you wish to query.    
 Example usages:    
-1) fetch https://github.com/sridharswamy/ComBot    
-2) fetch http://github.com/sridharswamy/ComBot
+1) fetch Https GitHub repo link.     
+2) fetch Http GitHub repo link.
 
 ======
 ###Commands for use cases
@@ -123,7 +123,7 @@ Example usages:
   
 ### Example of a possible flow
 1. hi bot
-2. fetch https://github.com/sridharswamy/ComBot
-3. file bot.js top 3
-4. file index.js recent 3
+2. fetch <Https GitHub repo link>
+3. file <FileName> top 3
+4. file <FileName> recent 3
 5. orgContributors README.md
